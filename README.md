@@ -53,13 +53,14 @@ The application will open in your browser at `http://127.0.0.1:7860/`.
 
 Users can configure the liquidity parameter ($\mathbf{b}$) and the initial price before the market begins.  
 
-**[Placeholder: Screenshot of the Gradio interface showing configuration sliders for $\mathbf{b}$ and initial price.]**
+![Alt text](assets/screenshot1.png)
 
 ### 2. Trading and Price Evolution
 
 The simulator records and visualizes market activity, including trades, price trajectories, and inventory changes.  
 
-**[Placeholder: Screenshot of the interface displaying the price chart and trade history after several transactions.]**
+![Alt text](assets/screenshot2.png)
+
 
 ---
 
